@@ -6,6 +6,7 @@
     "Tags": [ "Fashion Report", "Gold Saucer", "Mini Game", "Masked Rose", "Glamour", "MGP" ],
     "CategoryTags": [ "Utility", "UI" ],
     "InternalName": "FashionReportCalculator",
+    "AssemblyVersion": "1.0.0",
     "DalamudApiLevel": "13",
     "TestingDalamudApiLevel": "9",
     "RepoUrl": "https://github.com/TheRedheadedWitch/FashionReport",
