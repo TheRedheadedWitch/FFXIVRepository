@@ -13,4 +13,19 @@
   "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.1.0/FashionReport.zip",
   "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.1.0/FashionReport.zip",
   "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png"
+},
+{
+  "Author": "The Redheaded Witch",
+  "Name": "Cosmic Weapons",
+  "Punchline": "Easy Cosmic Weapons",
+  "Description": "I don't know about you, but I am really tired of remembering my Cosmic Weapons while inside of Cosmic Exploration. Yes, you could have a new Gearset button on your hotbar but you still have to remember it and it takes up space.\n\nWell not anymore, I am sharing part of my plugin I use because I am too lazy to keep doing it manually!\n\nThe plugin detects if you are in a Cosmic Exploration territory so leaving it on won't affect you when you change classes outside of the zones.",
+  "Tags": [ "Cosmic Exploration", "Crafting", "Gathering"],
+  "CategoryTags": [ "Utility", "UI" ],
+  "InternalName": "Cosmic Weapon",
+  "AssemblyVersion": "1.0.0",
+  "RepoUrl": "https://github.com/TheRedheadedWitch/Cosmic-Weapons",
+  "DownloadLinkInstall": "https://github.com/TheRedheadedWitch/Cosmic-Weapons/releases/download/v1.0.0/Cosmic.Weapon.zip",
+  "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/Cosmic-Weapons/releases/download/v1.0.0/Cosmic.Weapon.zip",
+  "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/Cosmic-Weapons/releases/download/v1.0.0/Cosmic.Weapon.zip",
+  "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png"
 }]
