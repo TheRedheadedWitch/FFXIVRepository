@@ -18,7 +18,7 @@
   "Author": "The Redheaded Witch",
   "Name": "Cosmic Weapons",
   "Punchline": "Easy Cosmic Weapons",
-  "Description": "I don't know about you, but I am really tired of remembering my Cosmic Weapons while inside of Cosmic Exploration. Yes, you could have a new Gearset button on your hotbar but you still have to remember it and it takes up space.\n\nWell not anymore, I am sharing part of my plugin I use because I am too lazy to keep doing it manually!\n\nThe plugin detects if you are in a Cosmic Exploration territory so leaving it on won't affect you when you change classes outside of the zones.",
+  "Description": "Depreciated, this feature is getting added to Vanilla+ now.\n\nI don't know about you, but I am really tired of remembering my Cosmic Weapons while inside of Cosmic Exploration. Yes, you could have a new Gearset button on your hotbar but you still have to remember it and it takes up space.\n\nWell not anymore, I am sharing part of my plugin I use because I am too lazy to keep doing it manually!\n\nThe plugin detects if you are in a Cosmic Exploration territory so leaving it on won't affect you when you change classes outside of the zones.",
   "Tags": [ "Cosmic Exploration", "Crafting", "Gathering"],
   "CategoryTags": [ "Utility", "UI" ],
   "InternalName": "Cosmic Weapon",
