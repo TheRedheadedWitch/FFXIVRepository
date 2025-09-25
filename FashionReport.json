@@ -9,8 +9,8 @@
   "AssemblyVersion": "1.0.0",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/TheRedheadedWitch/FashionReport",
-  "DownloadLinkInstall": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.2.0/FashionReport.zip",
-  "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.2.0/FashionReport.zip",
-  "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.2.0/FashionReport.zip",
+  "DownloadLinkInstall": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
+  "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
+  "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
   "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png"
 }]
