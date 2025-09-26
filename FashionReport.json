@@ -8,7 +8,6 @@
   "AssemblyVersion": "1.0.0.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": "13",
-  "TestingDalamudApiLevel": "13",
   "CategoryTags": [ "Utility", "UI" ],
   "InternalName": "FashionReport",
   "RepoUrl": "https://github.com/TheRedheadedWitch/FashionReport",
@@ -16,5 +15,5 @@
   "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
   "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
   "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png",
-  "changelog": "Added judging Window"
+  "Changelog": "Added judging Window"
 }]
