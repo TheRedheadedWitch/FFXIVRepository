@@ -15,6 +15,6 @@
   "DownloadLinkInstall": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
   "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
   "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/FashionReport/releases/download/v1.3.0/FashionReport.zip",
-  "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png"
+  "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png",
   "changelog": "Added judging Window"
 }]
