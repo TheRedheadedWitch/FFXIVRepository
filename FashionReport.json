@@ -14,7 +14,7 @@
   "AssemblyVersion": "1.0.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": "13",
-  "Changelog": "Fixed some minor bugs."
+  "Changelog": "Fixed some minor bugs.",
 },
 {
   "Author": "The Redheaded Witch",
@@ -32,7 +32,7 @@
   "AssemblyVersion": "1.0.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": "13",
-  "Changelog": "Fixed some minor bugs."
+  "Changelog": "Fixed some minor bugs.",
 },
 {
   "Author": "The Redheaded Witch",
@@ -46,8 +46,9 @@
   "DownloadLinkInstall": "https://github.com/TheRedheadedWitch/SRankAssistant/releases/download/v0.0.1/SRankAssist.zip",
   "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/SRankAssistant/releases/download/v0.0.1/SRankAssist.zip",
   "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/SRankAssistant/releases/download/v0.0.1/SRankAssist.zip",
+  "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png",
   "ApplicableVersion": "any",
   "AssemblyVersion": "1.0.0",
   "DalamudApiLevel": "13",
-  "IconUrl": "https://github.com/TheRedheadedWitch/FashionReport/raw/main/FashionReport/images/icon.png"
+  "Changelog": "Fixed some minor bugs.",
 }]
