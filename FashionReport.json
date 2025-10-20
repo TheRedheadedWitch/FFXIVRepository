@@ -20,7 +20,7 @@
   "Author": "The Redheaded Witch",
   "Name": "Train Conductor",
   "Punchline": "Choo Choo",
-  "Description": "Import your data from Turtle, then manage everything in the GUI!",
+  "Description": "Import your data from Turtle, then manage everything in the GUI!\n\nThere is a known bug with the dragging of List of monsters. It is completely cosmetic, and the arrows work without issue. I will work on this.",
   "Tags": [ "Hunt", "Train", "Utility" ]
   "CategoryTags": [ "Utility", "UI" ],
   "InternalName": "TrainConductor",
@@ -38,7 +38,7 @@
   "Author": "The Redheaded Witch",
   "Name": "S Rank Assistant",
   "Punchline": "I admit, I spent hours coding so I could be lazy! Wouldn't you?'",
-  "Description": "Auto counter for S Rank Summoning! Counts kills, gathering attempts, and even discarding items.",
+  "Description": "Auto counter for S Rank Summoning! Counts kills, gathering attempts, and even discarding items. Tracker is per zone so you can keep track of multiple locations at once. Even tracks the kills of others.",
   "Tags": [ "Hunt", "Utility" ],
   "CategoryTags": [ "Utility", "UI" ],
   "InternalName": "SRankAssist",
