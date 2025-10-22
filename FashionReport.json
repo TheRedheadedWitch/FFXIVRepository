@@ -28,7 +28,7 @@
   "DownloadLinkInstall": "https://github.com/TheRedheadedWitch/TrainConductor/releases/download/v0.0.1/TrainConductor.zip",
   "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/TrainConductor/releases/download/v0.0.1/TrainConductor.zip",
   "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/TrainConductor/releases/download/v0.0.1/TrainConductor.zip",
-  "IconUrl": "https://raw.githubusercontent.com/TheRedheadedWitch/TrainConductor/master/TrainConductor/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/TheRedheadedWitch/SRankAssistant/master/SRankAssistant/images/icon.png",
   "AssemblyVersion": "1.0.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": "13",
