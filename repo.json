@@ -14,7 +14,7 @@
   "AssemblyVersion": "1.0.0",
   "ApplicableVersion": "any",
   "DalamudApiLevel": "13",
-  "Changelog": "Fixed some minor bugs.",
+  "Changelog": "Fixed some minor bugs."
 },
 {
   "Author": "The Redheaded Witch",
@@ -32,7 +32,7 @@
   "AssemblyVersion": "1.0.2",
   "ApplicableVersion": "any",
   "DalamudApiLevel": "13",
-  "Changelog": "Fixed some minor bugs.",
+  "Changelog": "Fixed some minor bugs."
 },
 {
   "Author": "The Redheaded Witch",
@@ -50,5 +50,5 @@
   "ApplicableVersion": "any",
   "AssemblyVersion": "1.0.1",
   "DalamudApiLevel": "13",
-  "Changelog": "Fixed some minor bugs.",
+  "Changelog": "Fixed some minor bugs."
 }]
