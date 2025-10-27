@@ -29,7 +29,7 @@
   "DownloadLinkTesting": "https://github.com/TheRedheadedWitch/TrainConductor/releases/download/v1.0.1/TrainConductor.zip",
   "DownloadLinkUpdate": "https://github.com/TheRedheadedWitch/TrainConductor/releases/download/v1.0.1/TrainConductor.zip",
   "IconUrl": "https://raw.githubusercontent.com/TheRedheadedWitch/TrainConductor/master/TrainConductor/images/icon.png",
-  "AssemblyVersion": "1.0.1",
+  "AssemblyVersion": "1.0.2",
   "ApplicableVersion": "any",
   "DalamudApiLevel": "13",
   "Changelog": "Fixed some minor bugs.",
